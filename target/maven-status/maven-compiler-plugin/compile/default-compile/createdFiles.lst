@@ -1,0 +1,15 @@
+com\patrojascontreras\controller\VideoServletIndex.class
+com\patrojascontreras\controller\VideoServletEditId.class
+com\patrojascontreras\controller\VideoServletReadById.class
+com\patrojascontreras\util\Conexion.class
+com\patrojascontreras\controller\VideoServletInsert.class
+com\patrojascontreras\controller\VideoServletReadCategoriasAll.class
+com\patrojascontreras\dto\Categoria.class
+com\patrojascontreras\controller\VideoServletReadAll.class
+com\patrojascontreras\logexample\MyLog4j.class
+com\patrojascontreras\dao\VideosDAO.class
+com\patrojascontreras\controller\VideoServletReadPreviousConfirmDelId.class
+com\patrojascontreras\controller\VideoServletDelete.class
+com\patrojascontreras\dao\CategoriasDAO.class
+com\patrojascontreras\controller\VideoServletUpdate.class
+com\patrojascontreras\dto\Video.class
